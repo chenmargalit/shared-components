@@ -1,0 +1,5 @@
+.babelrc
+/src
+/build
+*.log
+/node_modules
