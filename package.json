@@ -2,7 +2,7 @@
   "name": "shared-components",
   "version": "1.0.0",
   "description": "example",
-  "master": "build/index.js",
+  "main": "build/index.js",
   "repository": "https://github.com/chenmargalit/shared-components.git",
   "author": "Chen Margalit",
   "license": "MIT",
